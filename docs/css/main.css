@@ -1,0 +1,55 @@
+/*http://jsfiddle.net/r9HUg/*/
+@import url(http://fonts.googleapis.com/css?family=Rosario);
+
+body {
+    background-color: rgb(58, 74, 59);    
+}
+
+
+
+/*centre whole page*/
+div.wholepage {
+    /*max-width: 1300px;*/
+    /*min-width: 1300px;*/
+    width: 800px;
+    margin: auto;
+    /*position: absolute;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*float: left;*/
+    /*background: white;*/
+    background-color: rgb(123, 176, 163);
+    /*background-color: rgb(150,150,150);*/
+    padding: 25px;    
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family:'Rosario', sans-serif;
+    font-size: 20px;
+    line-height: 2;    
+}
+
+/*get rid of underline*/
+a {
+    text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(50,50,50);
+}
+
+/* selected link */
+a:active {
+  color: black;
+}

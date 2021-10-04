@@ -1,0 +1,113 @@
+Five months after its release, the Red Magic 5G is still sporting the joint-highest refresh rate of any phone currently available. Its Snapdragon 865 processor is still the latest and greatest around, while Android 10 is still the latest version of Google’s OS (for now).
+
+Why, then, has Nubia already decided to launch a follow-up in the Red Magic 5S? Upon hearing of its launch, that was the exact same question I was asking.
+
+The miniscule changes don’t justify a new release, so this review has to be approached without leaning on its predecessor too much. Is the latest Red Magic phone still among the best gaming handsets you can buy, or has the competition caught up?
+Design and build
+
+Before you even open the packaging, it’s clear that the Red Magic 5S is a gaming phone through and through. The comic-book style design on the box really sets the tone for what to expect, and makes for a premium unboxing experience.
+
+The design of the phone is largely unchanged from the Red Magic 5G, with one key exception. The colour options. While we’ve seen variations of silver many times before, the wacky two-tone ‘Pulse’ model I tested is extremely eye-catching. It means the 5S easily stands out from the growing number of gaming-focused handsets, and would make me reluctant to throw on a case.
+
+Red Magic 5S
+
+It’s good news, then, that the device feels fairly robust, despite sporting an all-glass design with aluminium trim. The metallic coating on the back of the 5S means it’s impressively resistant to fingerprint smudges, while adding some much-needed grip. It’s also where you’ll find triple rear cameras and some discrete branding by gaming phone standards.
+
+Overall, the choice of materials means the phone has more premium feel than the £599 (£539 for the silver version) price tag suggests.
+
+The screen on the Red Magic 5S is unchanged from the 5G: a 6.65in OLED panel at a resolution of 1080x2340.
+
+I’d have liked to see the resolution bumped up slightly, but this is a more than acceptable trade-off for the class-leading 144Hz display. It’s since been joined at this refresh rate by the likes of the Lenovo Legion Phone Duel, Asus ROG Phone 3 and Iqoo Neo 3 5G, but that doesn’t make it any less impressive.
+
+It’s hard to explain to someone just how much smoother and more responsive this is than a regular 60Hz screen, but it makes even basic tasks feel that much more satisfying.
+
+Nubia also offers options for 60Hz and 90Hz, both of which help conserve the battery, but to make the most of this phone you’ll want to set it to 144Hz and leave it there. Besides its obvious benefits for gaming, you’ll also notice big steps forward when using ‘endless-scrolling’ style social media apps.
+
+The 5S is also noticeable for its lack of any sort of notch, with small bezels above and below the screen giving the phone an attractive symmetrical design. At the top, you’ll find the same 8Mp sensor as its predecessor, although it now has a wide 120-degree field of view.
+
+Curiously, this doesn’t support face unlock, so you’ll have to rely on the much-improved optical in-display fingerprint sensor. The enrolment process is simple, and relatively quickly I was able to get an idea of the right amount of pressure to apply.
+
+The power button and volume rocker have been shunted uncomfortably far down the right side of the phone to make way for a sizeable speaker grille, one of four dotted around the phone.
+
+Red Magic 5S
+
+On the opposite side, there’s a physical slider for triggering Game Space (more on that later), as well as smart connector for the many accessories Nubia offers.
+
+It’s disappointing that the dual SIM card tray still doesn’t support expandable storage, but we do still get a 3.5mm headphone jack and USB-C for charging and data transfer.
+
+Red Magic 5S
+
+While 220g is heavy by usual phone standards, the weight is justified here by everything Nubia is packing into the phone.
+Gaming and beyond
+
+We usually have a dedicated section for performance, but first it’s worth talking specifically about how it handles gaming.
+
+The Red Magic 5G is powered by Qualcomm’s latest Snapdragon 865 chipset, which combines with 12GB of RAM (on the model I tested) and industry-leading 144Hz refresh rate to provide the most accomplished mobile gaming experience I’ve experienced to date.
+
+I’m by no means an avid gamer, but can’t help but appreciate what Nubia has achieved here. The 5S delivers supreme gaming performance and can handle the most graphic-intensive games from the Google Play Store without breaking a sweat.
+
+Across demanding titles such as Call of Duty: Mobile, PUBG Mobile and Asphalt 9, the 5S was a joy to use, even though these games don’t officially support 144Hz gameplay. The gameplay feels silky-smooth, and I genuinely felt it gave me an advantage over players using a 60Hz screen. 
+
+There’s a huge range of games that do support 144Hz these days, although you won’t notice a significant difference on casual titles such as 8 Ball Pool and Fruit Ninja.
+
+The gaming experience is enhanced via Game Space, a special mode dedicated to mobile gaming. Activated via a slider on the side of the phone, it offers tools to maximise performance, reduce distractions and keep the device running cool.
+
+This might sound familiar to you if you’ve read my Red Magic 5S review, and that’s because very little has changed with regards to gaming performance. Nubia claims that the shoulder triggers now support a 320Hz touch sampling rate (up from 300Hz) and that the cooling system is 4.3% more effective, but I didn’t notice any difference.
+General performance
+
+It will probably come as little surprise that the stellar performance on the Red Magic 5S extends to general everyday usage. The 144Hz refresh rate means everything feels that bit more special, and only a handful of phones can truly compete with it on the spec sheet.
+
+That’s highlighted in its benchmark scores, where it proves more than a match for the best gaming phones on the market.
+Software
+
+Although I praised some of the gaming-specific software tweaks earlier, it’s arguably the most disappointing area of this phone. That’s because Nubia’s Red Magic 3.0 skin, running over Android 10, can’t be swapped out for another launcher.
+
+The beauty of Android has always been how customisable it is, but the experience feels a bit restrictive here. Nubia’s interpretation of Android is functional, if a little basic. It offers all the tools you’ve come to expect from Google’s operating system, alongside plenty of duplicate bloatware.
+
+It’s more than usable, even if you never played mobile games, but I just wish the excellent hardware could have been paired with similarly great software.
+Cameras
+
+Cameras are often the big selling point on “regular” phones, and they haven’t been forgotten about here. The Red Magic 5S comes with a triple rear camera array, with the main 64Mp sensor joined by an 8Mp ultrawide and 2Mp macro.
+
+In good lighting, the phone produces stills that are aesthetically pleasing, but aggressive saturation means they’re rarely true to life. You can see what I mean in the camera samples below:
+
+Red Magic 5S camera test
+
+It also tends to overexpose, particularly in bright environments. However, this works to its advantage in low-light, when you can call upon the dedicated night mode. It can’t quite rival the Pixel on image quality here, but the shots I took were more than usable.
+
+Despite not having a dedicated depth sensor, the 5S uses software to take portrait-style shots. It regularly struggles with edge detection, although I did give it some challenging subjects in my testing.
+
+In terms of video, the 5S is capable of capturing 8K footage at 30fps, up from 15fps on the Red Magic 5G. The addition of optical image stabilisation means you can get some decent footage, but it suffers from the same saturation and contrast issues as with stills.
+Battery life
+
+The Red Magic 5S comes with a 4500mAh, which sounds great until you realise it’s identical to the Red Magic 5G. Nonetheless, with the refresh rate set to 144Hz, I was able to record a solid 11 hours and 18 minutes in Geekbench 4’s battery test.
+
+On PCMark’s Work 2.0 test, often considered more representative of real-world usage, the 5S lasts a similarly impressive 10 hours and 55 minutes. That’s despite having the brightness set to 200 nits using the SpyderX Pro, compared to 120 for the Geekbench test.
+
+Both these scores suggest it has above-average battery life, and that’s the experience I had when using the phone. Nubia warns you that the high refresh rate will consume more power, but even then it was comparable with some 60Hz phones.
+
+One area it does struggle slightly is on standby time, as I noticed the battery deplete between setting the phone down and picking it up again.
+
+There’s no wireless charging, and I was only able to get 34% charge in 30 minutes from off, and it took about 90 minutes for a full charge. That’s not slow by any means, but has been surpassed by many modern handsets.
+
+Red Magic 5S
+Price and value for money
+
+The Red Magic 5S is priced identically to the 5G, costing £539/US$579 for 8GB of RAM and 128GB of storage. Stepping up to 12GB/256GB will cost you £599/US$649.
+
+Interestingly, the starting price here is identical to the Black Shark 3, which in turn appeared to match the cost of the Red Magic 5G. However, there are plenty of alternatives in the gaming phone market, with offerings from the likes of Vivo, Razer and Asus providing stiff competition.
+
+With the latter’s ROG Phone 3 not coming to the UK, it’s a prime opportunity for Nubia to establish the Red Magic brand in the European markets.
+
+While I wish there were more upgrades on the 5S, there’s no denying it provides excellent value for money.
+Verdict
+
+Nubia has once again succeeded in producing an excellent gaming phone with the Red Magic 5S, but that's no surprise considering it's almost identical to its predecessor. 
+
+320Hz shoulder triggers, UFS 3.1 and a claimed 4.3% better cooling system aside, this is the same phone that you could have bought five months earlier. 
+
+Everything I said in that review applies here. The 144Hz refresh rate display truly is breathtaking, and combined with a Snapdragon 865 processor and up to 12GB of RAM performance across the board is superb. Battery life is impressive and the built-in fan works wonders for gaming. 
+
+The frustrations with software remain though, and the cameras are fairly underwhelming. These are areas that could have easily been addressed on the 5S, but Nubia chose not to. 
+
+If this is your first experience of a gaming phone, you won't be disappointed. For anyone who picked up the Red Magic 5G though, don't worry as you're not missing out. 

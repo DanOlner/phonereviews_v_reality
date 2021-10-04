@@ -1,0 +1,90 @@
+you read this review of Google’s new budget Android phone, the Pixel 4A, know that as I wrote it, I wanted to put the following line after nearly every sentence: “I should remind you that the Pixel 4A costs $349.”
+
+That price is the most important thing to know about the Pixel 4A. It makes the Pixel 4A’s many good points — like its flagship-tier camera — that much more impressive. It’s also the source of some (but not all) of its compromises, like the processor I worry won’t stand the test of time.
+
+In Android circles, Google’s Pixel line is often disdained for being at least half a step behind its competitors. Much of that scorn is deserved, but I think not all — and the Pixel 4A makes a much stronger case for itself than other Pixel phones.
+
+The 4A is late, though: Google says the delay is down to the pandemic. The August 20th shipping date is awkwardly close to the usual October Pixel launch, so Google is going ahead and pre-announcing its next phones: the $499 Pixel 4A 5G and Pixel 5 (price TBD). If you were hoping for something other than a single 5.8-inch screen option, you will need to wait for those phones.
+
+Whether the Pixel 4A will make a better case than those upcoming phones remains to be seen. But I will tell you that after a couple of weeks, I prefer it over the much more powerful $800 Pixel 4.
+
+That’s quite a thing to say because I should remind you that the Pixel 4A costs $349.
+The Google Pixel 4A camera module with a single 12-megapixel sensor.
+The Google Pixel 4A camera module with a single 12-megapixel sensor.
+Pixel 4A Camera
+
+When it comes down to it, there is really only one reason to buy a Pixel phone instead of another Android phone: Google’s software. It’s cleaner and less cluttered than other versions of Android, it’s guaranteed to get at least three years of timely software updates, and — perhaps most importantly — Google’s software is what makes the Pixel camera so good.
+
+So let’s just get right into the Pixel 4A’s best feature: photos. I am happy to report that after dozens of test shots, the Pixel 4A matches the Pixel 4’s quality.
+
+Pixel 4 left, Pixel 4A right
+
+That’s not because the camera hardware is particularly notable, either. There’s a single 12.2-megapixel optically stabilized sensor on the back (with a flash); it’s the same Sony IMX363 sensor that Pixels have used since the Pixel 3. There’s also a single 8-megapixel sensor on the front.
+
+The Pixel 4A and Pixel 4’s photos are virtually impossible to distinguish. They both have the signature Pixel look: almost dramatically high contrast, sharp detail, and cool color tones.
+
+These cameras are particularly impressive in the dark. Their night modes are great — especially at the $349 price point. I also compared the 4A to the iPhone SE, and while the iPhone occasionally takes more pleasing, warmer photos in daylight, it gets absolutely crushed at night as it doesn’t have a comparable night mode.
+
+iPhone SE 2nd-gen left (no night mode available); Pixel 4A right (Night Sight enabled)
+
+You can zoom up to 7x, and the Pixel does a better-than-average job of keeping details at that crop. As with most phones, the 4A’s portrait mode is fine so long as you don’t look too closely at the edges. The software I am using has a very aggressive 2x crop when you switch to portrait — this will apparently drop to 1.5x when Android 11 comes out. (It works on pets, too.)
+
+I also got a chance to use the 4A’s astrophotography mode, getting the below shots of the Milky Way and even (just barely) the Neowise comet. Using the Pixel 4A reminded me how much I love Google’s Pixel cameras.
+
+There are sacrifices, though. Because the Pixel 4A lacks the extra image processor you get on the Pixel 4, images take noticeably longer to process before you can view them. Google also tells me that sometimes its HDR Plus algorithm will utilize fewer shots than the Pixel 4, but I couldn’t tell any difference in practice.
+
+I am slightly bummed that there’s no wide angle or telephoto lens, but only slightly. Usually, those sensors are of worse quality than the main sensor — especially at this price point — so dropping them isn’t a huge loss.
+
+The biggest sacrifice isn’t specific to the 4A but to all Pixel phones: video isn’t great. It’s not just that, on a technical level, Pixel phones can’t shoot in all of the frame rates common to modern phones, either. The iPhone SE and even the average Samsung phone do a better job with dynamic range and overall quality.
+
+Still, when it comes to photos, the Pixel 4A goes toe-to-toe with the iPhone 11 Pro and Samsung Galaxy S20 — and often wins.
+The Google Pixel 4A has a rear-mounted fingerprint sensor.
+The Google Pixel 4A has a rear-mounted fingerprint sensor.
+Pixel 4A hardware and software
+
+The word I use most often to describe Pixel hardware is “unassuming.” It’s basic: no frills, no fanciness, just an easy-to-hold phone without any embellishments. It’s a little boring, but at least it isn’t tacky.
+
+The Pixel 4A has a one-size-fits-all 5.8-inch display. Google is using a hole-punch for the first time, which allows the screen to go closer to the edges. The bezels are still bigger than what you’ll get on a flagship, but they’re smaller than many phones at this price point.
+
+It’s an OLED screen, which used to be a rarity at this price range. As OLED screens go, it’s not able to stand up to the screens on phones that cost more. There’s some red shift in the dark, significant drop-off when viewed at an angle, and it barely manages to get bright enough to stand up to direct sunlight. It’s also covered by Gorilla Glass 3, which is four generations old at this point.
+
+But remember that reminder: for $350, this 1080p screen is more than acceptable. If you aren’t the sort of person who immediately knows pixel density and high-refresh rates when you see them, you’ll probably be fine with it. I didn’t have any major problems.
+
+The body itself is plastic with the fingerprint sensor on the back. It feels sturdy enough, but the lack of wireless charging is a little bit frustrating. However, Google kept the 3.5mm headphone jack, and I’m happy to see it as always. I’m also glad to see stereo speakers, something that’s often cut at this price point. You can’t squeeze the phone for Google Assistant, but you can swipe in from the bottom corners or say “Hey Google.”
+
+You can get any color you want as long as it’s black. Google uses cutesy names for its paint colors, and the “just black” branding here is right on the money. The power button is a nice seafoam green, though.
+
+Google’s version of Android is as unassuming as the Pixel’s hardware. It lacks a lot of fancy features, but it makes up for that by being simple and easy to understand.
+
+There are a few “Pixel-first” features, the kind of things that should make their way to other Android phones eventually. The best among those is probably the safety features like car crash detection, but the most useful day-to-day is the ability to get speech-to-text in phone calls.
+
+When you turn it on, the caller on the other end hears a message that their words are going to be transcribed. Then it works just like Android’s closed captioning, showing you the words being spoken on the call in nearly real time with surprisingly great accuracy. It all happens locally on the phone, and transcriptions are not saved.
+There’s no wireless charging on the Google Pixel 4A.
+There’s no wireless charging on the Google Pixel 4A.
+Pixel 4A specs
+
+The specs are a good news / worrisome news kind situation. The good news is that Google has put in enough RAM (6GB) to run Android well and put in enough storage (128GB) to accommodate most users without hassle or annoyance. That 128GB of storage is especially notable because it’s double what the base iPhone SE offers — meaning an equivalent iPhone SE with 128GB of storage is $100 more than the Pixel 4A.
+
+That all seems great, but the iPhone SE has a ridiculous advantage over the Pixel: its processor. Where Apple can use its economies of scale to put the fastest mobile processor ever made into its low-cost iPhone SE, Google has to make do with the options Qualcomm offers at this price point. That means the Pixel 4A uses the midtier Snapdragon 730G, which is the worrisome news.
+
+It is fast enough for day-to-day use. Out of the box (and after Android gets over the usual first-day sync chug), it’s the kind of phone I would be happy to use every day. It takes a beat longer to open apps, and there’s some wonky scrolling in Chrome and Twitter, but it’s not slow.
+
+What I worry more about is longevity. Android phones have a reputation for not lasting as many years as iPhones — and the processor is a big part of that. There’s just not as much headroom for future software complexity here. Google promises at least three years of software updates and says last year’s Pixel 3A (which also has a lower-tier processor) is aging well, but it’s something to think about. I would say if you want a phone that’s sure to last four or more years, look elsewhere.
+
+But to me, the most important spec is probably battery life. Here, I think Google has recovered from the awful decisions it made with the Pixel 4. The 4A has a 3,140mAh battery, which is larger than the one on the smaller Pixel 4. Combine that larger battery with that more power-efficient Snapdragon 730G processor, and you end up with acceptable battery life.
+
+A little more than a week in, I am averaging around four and a half hours of screentime, lasting through an entire day with no sweat. There was a day when I saw significantly worse performance and was concerned — until I realized that I had been actively providing mobile hotspot Wi-Fi to the other devices on very weak Verizon service all day long. So it’s not a battery champ, but it’s good enough for me.
+The Google Pixel 4A
+The Google Pixel 4A has a best-in-class camera, and though it doesn’t excel anywhere else, it nails the basics.
+
+In writing about sub-$500 phones, we usually end up talking a lot more about trade-offs. Once you dip down into these price points, you simply can’t have it all. Phone manufacturers have to make choices about what needs to be good and what can be skimped.
+
+With the Pixel 4A, Google has an advantage: it can use its software to make the camera competitive with any phone without spending much on more elaborate camera systems. That leaves money in the bill of materials for niceties like a good, largish OLED screen and stereo speakers.
+
+I have called the Pixel 4A “basic,” and I’m well aware that word is used as an insult. But the thing I’m getting at is the 4A does a good job of handling all of the basics people expect out of a phone: good battery life, good camera, good software, acceptable speed.
+
+Another word that gets used as an insult is “cheap,” and at $349, the Pixel 4A definitely has a cheap price, but it doesn’t feel cheap. An iPhone SE is probably a better value in the long term, but if you want either Android or best-in-class photos, then the 4A will be worth a look.
+
+(If you can look at one, that is. Because it doesn’t have 5G, the 4A isn’t likely to get much play in carrier stores even when they do start to open up to customers. And Google’s decision to pre-announce the Pixel 4A 5G and Pixel 5 could complicate your decision.)
+
+The Pixel 4A is cheap and basic, but most cheap phones don’t get the basics right. The Pixel 4A does. And just to remind you: it does so for $349.

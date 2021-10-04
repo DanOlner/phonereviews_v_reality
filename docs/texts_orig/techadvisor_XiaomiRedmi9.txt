@@ -1,0 +1,73 @@
+Redmi 9 is the new base model in Xiaomi's budget phone line, but the company offers such extraordinary value across the entire range that this handset finds itself stuck between a rock and a hard place: cheap as chips, but not quite cheap enough to justify some of the corners being cut when compared with the competition.
+
+And that's not just the outside competition, but also rivals within Xiaomi's own camp: it's impossible to recommend this phone against the Poco X3 NFC and Redmi Note 9 for anything other than its cheaper price.
+
+It's currently the second-cheapest mobile phone in our best budget phone round-up (and the cheapest budget Chinese phone), more expensive only than the Moto e6s - and by far the better option. It also trumps Oppo's more expensive entry-level A5 (2020). But raise your budget by just £40 and you'll find significantly better value for money.
+Design & Build
+
+Redmi 9 is not a bad-looking phone, but it is plastic - and that screams budget. It's also using a Dot Drop display, while the rest of Xiaomi's budget line has moved to full-screen displays with punch-hole camera modules. This makes it feel old.
+
+On the plus side, the textured rear surface is so much grippier than those phones with glass behinds, making it a lot more stable both in your hand and when placed down on a flat surface.
+
+Redmi 9 review
+
+The display itself is otherwise nice, with a Full HD+ resolution and a tall 19.5:9 aspect ratio, but it's not capable of the bright and vibrant colours produced by AMOLED panels found higher up Xiaomi's line. We also found it much dimmer than the advertised 400 nits - in fact, we set the screen to 200 nits for our PCMark battery tests (see how we test phones) and this was pretty much cranked up to the max. We expect that it hits 400 nits only in direct sunlight with its Sunlight display feature.
+
+Xiaomi has also brought down costs by specifying older Gorilla Glass 3, which is much safer than having no protection at all, but we'd prefer to see Gorilla Glass 5 or 6. It feels like a durable handset - helped by the plastic body - though there is no waterproofing. As with all Xiaomi phones a TPU case is found in the box.
+
+At 6.53in the screen is a usable size - but we must point out this is matching the Redmi Note 9, which additionally drops the waterdrop screen notch. Bezels are reasonably slim.
+
+Redmi 9 review
+
+The design is rather plain, but consistent with where you'd usually expect to find certain features. For a budget phone, it's not uncommon to find the fingerprint sensor on the rear, and here it sits tucked away at the bottom of the central quad-lens camera assembly, so be careful not to leave greasy fingerprints all over the camera.
+
+There are some nice touches, too, including an IR blaster, 3.5mm headphone jack and a SIM slot that does not force you to choose between microSD storage expansion and dual-SIM functionality. This is especially useful when you consider the base model has only 32GB internal storage, though 64GB is also available for an extra £20.
+
+Next to the headphone jack is a single mono speaker, which is functional but will distort at max volume.
+
+Redmi 9 review
+Hardware & Performance
+
+One of the key selling points of this phone is its big battery, rated at 5020mAh. That's in line with Redmi Note 9, and only a touch lower than Xiaomi's Poco X3 NFC that has some hungrier hardware inside. 
+
+In our testing it would easily last a full day and potentially two, but when it comes to refilling the battery it just feels like it takes forever to charge - even with 18W Quick Charge 3.0. It took us 30 minutes to get to 20% with the supplied 10W charger. Of course, that's largely because it is such a high-capacity battery, but we've also been spoiled with much faster charging phones of late. Do note that there's no wireless charging.
+
+Our real-world observations were not backed by synthetic benchmarks, however. Using the PCMark Work 2.0 battery life test we recorded 8 hours 13 minutes, which is a significant drop from the 14 hours 24 mins of the Poco, and also lower than top budget phones from other brands - the Realme 7, for example, recorded 9 hours 2 mins, and the Pro version 12 hours 5 mins. This is actually one of the lowest scores we've seen since we began using the PCMark benchmark.
+
+We also battery test with Geekbench 4, and results here were similarly poor. A result of 6 hours 50 minutes is the lowest we've seen from Xiaomi in a long time, and models with Snapdragon processors inside certainly fare better in these tests.
+
+Real-world usage is infinitely more helpful than the benchmarks, and so we wouldn't dwell on these surprisingly poor results, but it does point to a battery that isn't as impressive as you might expect from the marketing.
+
+General performance from the ARM Mali-G52 MC2 GPU was similarly unimpressive in our benchmarks, with GFXBench turning in some meagre and borderline unplayable framerates in all but one of its graphics components. Unfortunately, when we tested Redmi Note 9 it failed to run all these benchmarks, but both the Poco X3 NFC and Realme 7 demonstrated notably better performance for gaming.
+
+This doesn't mean you can't play games or watch movies on Redmi 9, just that you shouldn't set your expectations too high. Performance in general can be a bit stuttery and laggy.
+
+We're rarely excited to find a MediaTek Helio processor inside a phone, since it's almost always a cost-cutting measure. This G80 is a step down on the Redmi Note 9's G85, and Realme's G95. Meanwhile, the Poco has a Qualcomm Snapdragon 732G. Clocked at 2GHz, we didn't expect to get mind-blowing performance from this octa-core chip, and we didn't get it either.
+
+Recording 1294 points in Geekbench 5's multi-core test, Redmi 9 is a touch faster than Redmi Note 9 but performance is otherwise underwhelming when compared with all other competitors in the sub-£200 bracket. For casual daily use it will be perfectly fine, but you won't be buying this phone for its speed.
+
+Redmi 9 review
+Connectivity
+
+Connectivity deserves a mention, largely because it is somehow both impressive and underwhelming at the same time.
+
+NFC (used for mobile payments and quick pairing over Bluetooth with compatible devices) is available only in selected markets, and clearly not this one as it's nowhere to be found in the settings. Wi-Fi is single-band, and doesn't stretch to 802.11ac (in the Chinese model you do get dual-band 802.11ac, however). These are no longer standard or acceptable omissions in budget phones.
+
+On the other hand, there's dual-SIM functionality whereby both SIMs can simultaneously support 4G (but not 5G), and an IR blaster and a 3.5mm headphone jack that are both becoming increasingly rare (probably for good reason). Add in USB-C and a fingerprint sensor, GPS and Bluetooth 5.0, and that's a decent spec for a cheap phone.
+
+Redmi 9 review
+Cameras & Photography
+
+Redmi 9 has a quad-lens rear camera, and on paper that sounds fantastic for such a cheap smartphone. But compare the base specs to some of its closest rivals:
+
+Redmi 9: 13MP wide-angle + 8MP ultra-wide + 5MP macro + 2MP depth
+
+Redmi Note 9: 48MP wide-angle + 8MP ultra-wide + 2MP macro + 2MP depth
+
+Poco X3 NFC: 64MP wide-angle + 13MP ultra-wide + 2MP macro + 2MP depth
+
+Realme 7: 48MP wide-angle + 8MP ultra-wide + 2MP macro + 2MP depth
+
+Even before you consider quality, that headline megapixel figure has taken a huge cut in Redmi 9. While the number of megapixels themselves are rarely important for image quality, it's worth noting that with its higher megapixel models Xiaomi combines four individual pixels into one super pixel, so the end result is not actually 48- or 64MP but it is much better quality. 
+
+Redmi 9 test shot 

@@ -1,0 +1,107 @@
+With the Nord, OnePlus is returning to its roots with first-class smartphones at mid-range prices, which is a very good thing.
+
+The £379 Nord sits under the £599 OnePlus 8 as the firm’s mid-range offering, aiming to bring everything that makes its top-end smartphones so good but at a significantly lower price.
+
+Dimensions-wise the Nord is only marginally different to the 8, being 0.2mm thicker, 0.4mm wider, 1.9mm shorter and weighing 4g more. It has a gorgeous, bright and colourful, 90Hz AMOLED screen that is 6.44in on the diagonal with FHD+ resolution, which is only 0.11in smaller than the 8. The screen is flat, rather than curved at the sides, and a dual-selfie camera peers through the screen, taking up a fair chunk of real estate in the top left corner.
+OnePlus Nord review
+The Nord looks particularly good in Marble Blue with top-notch fit and finish. Photograph: Samuel Gibbs/The Guardian
+
+The rest of the phone is fairly standard for a high-end device in 2020. Metallic (but plastic) sides, glass front and back, with a vertical camera lump to one side. It is extremely attractive in a light blue colour but also comes in a metallic-like grey. The curved glass back is fairly grippy, which makes the Nord feel great in the hand and easy to hold and use without a case, although a high-quality clear thermoplastic polyurethane (TPU) case is included in the box.
+
+There is a USB-C port in the bottom but no headphones socket – which is more common in smartphones priced under £400 than at the top end of the market. It’s not obvious from the outside that the Nord is not a £600+ smartphone.
+Specifications
+
+    Screen: 6.44in 90Hz FHD+ AMOLED (408ppi)
+
+    Processor: Qualcomm Snapdragon 765G
+
+    RAM: 8 or 12GB of RAM
+
+    Storage: 128 or 256GB (UFS 2.1)
+
+    Operating system: OxygenOS 10.5 (Android 10)
+
+    Camera: quad rear camera: 48MP main, 8MP ultra-wide, 2MP macro, 5MP depth sensor; dual selfie camera: 32MP main, 8MP ultra-wide
+
+    Connectivity: 5G, dual sim, wifi 5, NFC, Bluetooth 5.1 and GPS
+
+    Water resistance: no rating
+
+    Dimensions: 158.3 x 73.3 x 8.2 mm
+
+    Weight: 184g
+
+Fast with 32 hours of battery
+OnePlus Nord review
+Warp Charge 30T is one of the fastest charging systems on the market. Photograph: Samuel Gibbs/The Guardian
+
+The Nord has one of Qualcomm’s latest 5G-capable mid-range processors, the Snapdragon 765G, rather than the top-end Snapdragon 865. It comes with either 8GB of RAM and 128GB of storage or 12GB of RAM and 256GB of storage, depending on the model. It is worth noting that the storage is the older, slower UFS 2.1 standard, not the faster, newer UFS 3.0 standard that has been used in top-end smartphones since last year.
+
+Performance all round was very good indeed. During day-to-day usage, launching apps, switching between them, browsing in Chrome, email in Gmail, trying to avoid the dross of social media and hurriedly setting teams against tight deadlines for the final weeks of the Fantasy Premier League, I could not tell the difference between the Nord and the stellar OnePlus 8 Pro. That, in itself, is an achievement and has as much to do with well-optimised software as the processor.
+
+You could notice a performance difference in graphically demanding games, while trying to manage a giant spreadsheet in Google Sheets or while rapidly scrolling through very media-heavy sites but some top-end phones from rivals also struggle a little with some of those activities compared to the OnePlus 8 Pro.
+OnePlus Nord review
+The excellent alert slider quickly switches between totally silent, vibrate and ring. Photograph: Samuel Gibbs/The Guardian
+
+Battery life is also good and lasts about 32 hours, from 7am on day one until 3pm on day two, which is more than enough to make it through the toughest of days and a night out. That matches the OnePlus 8 and 8 Pro’s 32-hour batteries and beats Apple’s iPhone SE by five hours and Google’s Pixel 3a by eight hours.
+
+That was after spending three hours on 4G, the rest on wifi. And with the screen set to 90Hz and on for more than five hours for the usual deluge of email, messages and push notifications, browsing and using apps, five hours of Spotify via Bluetooth headphones and about 20 photos.
+
+Note that it was impossible to test the effects of 5G on battery life because I do not receive 5G at my home, to which I am restricted because of the Covid-19 situation in the UK. Also, pending a software update, the phone is limited to 4G only when two sims are used at the same time.
+
+The Nord has OnePlus’s Warp Charge 30T super-fast wired charging, which hits 50% in 25 minutes and fully recharges the phone in an hour. Optimised charging preserves battery longevity by learning when you need a fully charged phone overnight and delays charging to 100% until just before that moment, and works with any charger, not only the one included in the box. There is no wireless charging.
+Sustainability
+
+OnePlus rates the battery in the Nord for 800 full-charge cycles till 80% capacity – better than the typical 500. Battery longevity is also aided by the firm’s optimised charging system. The smartphone is generally repairable by OnePlus in the UK, with the battery costing £12 or the screen costing £67 plus VAT and labour to replace.
+
+The firm offers a trade-in programme for purchase of the Nord, including the return of OnePlus smartphones and models from rivals. It did not comment on the use of recycled materials in its smartphones.
+OxygenOS 10.5
+OnePlus Nord review
+The dual-selfie camera takes up a reasonable chunk of the status bar, so the option to edit which icons appear there is welcome. Photograph: Samuel Gibbs/The Guardian
+
+The Nord ships with the same OxygenOS 10.5 based on Android 10 as the 8 and 8 Pro.
+
+Google’s Discover feed features on the home screen, alongside nice touches such as full theme support and choices for animations such as that around the fingerprint scanner. The ability to choose which icons show in the status bar is particularly useful, given the large space taken up by the dual-selfie camera in screen. OxygenOS does have a dark mode but it cannot be toggled on and off quickly, as with most smartphones.
+
+OxygenOS has developed into the best version of Android you can get on a phone, balancing features, aesthetics and speed like no other, even without a top-of-the-line processor. OxygenOS’s one long-term downside, which is common to all OnePlus phones and has been a problem for several years, is that it aggressively shuts down apps in the background more than most other manufacturers, which prolongs battery life but also delays notifications and can break functionality for some apps. I noticed delays to security camera alerts, new message notifications and fantasy football events, among others.
+
+OnePlus only offers software support for three years from release, including two years of Android version updates and then a further year of security updates on a bimonthly schedule. Apple offers five for its iPhones, including the £400 iPhone SE, so there’s still work to be done for OnePlus.
+Camera
+OnePlus Nord review
+The main camera is very good, particularly for a mid-range smartphone. Photograph: Samuel Gibbs/The Guardian
+
+The OnePlus Nord has a quad-camera system on the back, including the same 48-megapixel main camera as the OnePlus 8, an 8-megapixel ultra-wide-angle camera, a 2-megapixel macro camera and a depth-sensor.
+
+The main 48MP camera shoots 12MP photos by default (a 48MP mode is available) and captures some really great-looking images, with good contrast and colour in bright light and reasonable images in middling to poor light. Low-light performance is average but is helped by the dedicated Nightscape mode. What was pretty good in a phone costing £599 with the OnePlus 8 is very good indeed at the £379 asking price of the Nord.
+
+There’s no optical zoom, relying entirely on digital zoom from the main camera, which is fine at 2x but not much good beyond that. The 8MP ultra-wide camera is fairly average compared with top-end rivals, with a noticeable softening of detail around the sides, but can produce good-looking wide-angle images in bright light if you do not zoom in on them too much. The 2MP macro camera is total rubbish for close-up shots; I got far better results with just the main camera and zooming in a little bit.
+
+Video is pretty good, too, particularly at this price point, with up to 4K at 30 frames per second available. The dual-selfie camera on the front has one main 32MP camera and one 8MP ultra-wide, both are fixed-focus. Together they produce pretty good images, with a good amount of detail, but even in good light they can be a little grainy in areas around the eyes on closer inspection. It is nice to have the ability to take a wider angle to fit more people in.
+Observations
+OnePlus Nord review
+The in-screen fingerprint scanner is the best in the business, matching traditional capacitive sensors for speed and accuracy, and far better than even top-priced rivals from Samsung and others. Photograph: Samuel Gibbs/The Guardian
+
+    A screen protector comes pre-applied to the phone.
+
+    The haptic feedback and vibration motor is as good as that in the 8 Plus: sharp and punchy, which cannot be said for many phones at this price.
+
+Price
+
+The OnePlus Nord is available in either blue or grey, costing £379 with 8GB of RAM and 128GB of storage or £469 with 12GB of RAM and 256GB of storage.
+
+For comparison, the Google Pixel 3a costs £329, the Motorola Moto G 5G Plus costs £299.99, the Apple iPhone SE costs £419, the OnePlus 8 costs £599 and the OnePlus 8 Pro costs £799.
+Verdict
+
+The OnePlus Nord is a very good phone full stop – and an absolute bargain at only £379.
+
+It looks the part. The screen is great. The rear main camera is great and the battery life is very good. It is just as fast, smooth and refined in day-to-day usage as OnePlus’s smartphones costing twice as much and it supports 5G, whenever that arrives in your neighbourhood. Other than from reading the spec sheet and seeing the inclusion of a mid-range processor, it’s really not obvious where any corners have been cut.
+
+The Nord has stiff competition from Apple’s 4G-only £419 iPhone SE but otherwise blows the competition out of the water. In fact, I really can’t see why you would pay an extra £220 for the OnePlus 8 but that’s a problem for OnePlus not the consumer.
+
+Overall, the OnePlus Nord is one hell of a lot of phone for £379 and will take some beating.
+
+    Pros: great 90Hz AMOLED screen, great performance, solid battery life, fast charging, great software, looks stunning in blue, good main camera, top-notch build, dual-sim, 5G, superfast in-screen fingerprint scanner.
+
+    Cons: no headphone socket, no telephoto camera, no water-resistance rating, 5G disabled when using two sims, only three years of softwa
+
+T

@@ -1,0 +1,95 @@
+The Fairphone 3+ costs £425 and marks a new approach for the eponymous Dutch company.
+
+The new phone is identical to 2019’s Fairphone 3 apart from an upgraded front and rear cameras, improved audio and an increase in the amount of recycled plastic it contains – up from 9% to 40%, said to be the equivalent of one 330ml plastic bottle. It also ships with the newer Android 10, which will be available for existing devices in the first half of September.
+
+That means you’re buying a smartphone with a dated design that’s chunky with a fairly small screen. But those compromises are necessary to make the phone user repairable, not just repairable by a service centre. The plastic back comes off easily. The battery is removable and the phone is made with six removable modules: when one is broken or you want to upgrade it all you do is unscrew it and insert a new one. There’s even the correct screwdriver included in the box.
+fairphone 3+ review
+The new selfie camera has a white ring around it. Photograph: Samuel Gibbs/The Guardian
+
+The 5.65in FHD+ LCD screen won’t win any awards for colour or brightness, struggling a bit outdoors, but it is perfectly fine for day-to-day usage and is covered by scratch-resistant Gorilla Glass 5. The fingerprint scanner on the back works great, but is a bit high up making it difficult to reach without a bit of hand gymnastics. There’s a USB-C socket in the bottom for charging and a headphone socket in the top.
+
+Audio is certainly louder and crisper than the original. The speaker is still in an awkward position, though, there’s no real bass, and it can sound a bit shrill and distorts at high volumes.
+Specifications
+
+    Screen: 5.65in FHD+ LCD (427ppi)
+
+    Processor: Qualcomm Snapdragon 632
+
+    RAM: 4GB of RAM
+
+    Storage: 64GB + microSD card
+
+    Operating system: Fairphone OS based on Android 10
+
+    Camera: 48MP rear, 16MP selfie camera
+
+    Connectivity: dual sim, LTE, wifi, NFC, Bluetooth 5 and GPS
+
+    Dimensions: 158 x 71.8 x 9.9mm
+
+    Weight: 189g
+
+Android 10
+fairphone 3+ review
+Android 10 brings full-screen gesture support, which is good but Fairphone’s version needs some improvement. Photograph: Samuel Gibbs/The Guardian
+
+The Fairphone 3+ still has the rather low-performance Snapdragon 632 chip from 2018, 4GB of RAM and 64GB of storage. It performs the same as its predecessor, which means it is fairly slow, but not frustratingly so. For more on performance and battery life please see the original Fairphone 3 review.
+
+New is Android 10, which helps performance a little and makes the phone feel more modern. Although it is worth noting that Android 11 is due to be released imminently by Google, potentially before the Fairphone 3+ ships to buyers. Fairphone aims to provide five years of software updates.
+
+Android 10 on the Fairphone is a standard stripped-back affair, free of bloat or duplicated apps and is all the better for it. You get all the standard Google apps, including the Play Store. It ships with the older Android navigation buttons (back, home and recently used apps) but you can activate the new and improved gesture navigation that is a core part of Android 10.
+
+The software runs fine for the most part, but I have noticed a few small things that need fixing, such as the bottom search bar getting stuck overlapping the icons in the dock when you have gesture navigation active. Anyone who has used an Android smartphone in the last five years should find it immediately familiar.
+Sustainability
+
+The most ethical smartphone scores very high marks for sustainability. The phone is made out of 40% recycled plastic, fairtrade gold and conflict-free minerals, is repairable at home, not just by a service centre and users can replace the batteries (£27) themselves in about a minute. A replacement screen costs £81.95.
+
+Fairphone also recycles old phones of other brands, even if you’re not buying a phone from the company. It has various progressive initiatives, from paying workers a living wage to fairer and more environmentally friendly material sourcing.
+Camera
+fairphone 3+ review
+The camera app is much improved with AI scene recognition, faster autofocus, object tracking and image stabilisation, but its tap to focus and shoot is annoying. Photograph: Samuel Gibbs/The Guardian
+
+The new cameras are a step up from the old ones on the Fairphone 3. The rear 48-megapixel camera (up from 12MP) is capable of capturing good images in good to medium light levels, with more detail, better colours and better light sensitivity than the previous version. Shots on a dull grey British day were perfectly acceptable, but low light performance is still fairly weak with no special night mode available.
+
+Autofocus was much faster too, while the camera now supports modern features such as object tracking and scene optimisation. There’s no optical zoom, but the up to 8x digital zoom is surprisingly effective. Portrait mode wasn’t bad either. The camera shoots 12MP photos by default (combineing pixels for more light and better detail), but despite having a 48MP sensor there is no way to shoot at the full resolution.
+
+Video captured at up to 4K at 30 frames a second was solid, but oddly there’s no option for the common FHD video at 60fps, only 30 or 120fps. Slow-mo video was decent, although not at a particularly high frame rate so the effect was not as dramatic as competitors.
+
+It is also worth noting that in normal “Photo” mode tapping to focus also captures the shot, which I found irritating, having to switch to “Pro” to be able to focus and then shoot manually as I would on other smartphones. Pro mode does support capture in RAW format, which some more keen photographers will welcome.
+
+While the new cameras are definitely an improvement over the originals, their performance doesn’t come anywhere near what you’d get from a £349 Pixel 4a or £419 iPhone SE.
+
+The selfie camera is capable of capturing some of the most detailed self-portraits I’ve seen, which I love but some might find deeply unflattering. I had some issues making sure the entire frame was in focus, though, occasionally ending up with my nose out of focus.
+Observations
+fairphone 3+ review
+The new rear camera has a white ring around it to mark it out as the new module. Photograph: Samuel Gibbs/The Guardian
+
+    The inside of the phone just says FP3, as does the software, meaning it is difficult to tell if you have a Fairphone 3+.
+
+    The battery was a much tighter fit. I almost broke my nail prising it out of the back.
+
+    The phone misidentified an EE sim as being on the Virgin mobile network.
+
+Price
+
+The Fairphone 3+ is available for pre-order costing £425, shipping on 14 September.
+
+The Camera+ Module (48MP) will cost £54.95 and the Top+ Module (16MP) will cost £32.95 separately, or £62.90 as a bundle, plus shipping until the end of September for existing Fairphone 3 users to upgrade themselves.
+
+For comparison, the Google Pixel 4a costs £349, the OnePlus Nord costs £379 and the Apple iPhone SE costs £419.
+Verdict
+
+The Fairphone 3+ has a better camera on the front and back, meaning one compromise is lessened compared with the competition. But the rest of the downsides of the original Fairphone 3 remain, alongside that one big, overriding upside: being as ethical as possible.
+
+It is good to see the company delivering on its promise of upgrade modules, which existing Fairphone 3 users can buy and slot in. Whether they will remains to be seen. It’s not quite a night-and-day upgrade, but if you hate the original camera it might be worth it.
+
+It’s also good to see progress on the use of recycled plastic, something other manufacturers including Google, Samsung and Apple are taking up, too.
+
+I want to be clear: this is a 3.5-star device with 1.5-stars awarded for sustainability, repairability and ethical manufacturing. You’ll get a far better smartphone experience from a Pixel 4a or an iPhone SE for similar money. But ultimately you buy the Fairphone 3+ because you support the ideals, rather than looking for a value-for-money smartphone.
+
+The most ethical smartphone you can buy now has a better camera, and you don’t have to bin your original Fairphone 3 to get it.
+
+    Pros: ethical manufacturing, sustainable materials, truly repairable, solidly built, dual sim, microSD card slot, headphones socket, removable battery, bloat-free, software support for five years, reasonable camera.
+
+    Cons: middling performance, chunky, expensive for the specs, camera still not as good as rivals, no 5G.
+
